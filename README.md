@@ -1,4 +1,4 @@
-## Hi there 👋
+![Alt text](https://raw.githubusercontent.com/CyberZik/NFSU-Study-Material/refs/heads/main/final%20gif.gif)
 
 <!--
 **CyberZik/cyberzik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
